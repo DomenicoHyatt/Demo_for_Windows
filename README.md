@@ -19,5 +19,5 @@
 	2.	点击“识别图片”按钮选择图片进行人脸识别。
 	3.	点击“识别视频”按钮选择视频文件进行人脸识别。
     4.  点击“识别摄像头”按钮选择摄像头进行人脸识别，程序默认打开第一顺位的摄像头，如想打开其他摄像头请在源码中更改。
- 	![](https://github.com/ArcJonSnow/source/raw/master/2.png) 
- 
+ 	 [](https://github.com/ArcJonSnow/source/raw/master/2.png) 
+  
